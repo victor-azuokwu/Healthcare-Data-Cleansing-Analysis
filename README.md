@@ -1,6 +1,16 @@
 # Healthcare Data Cleansing & Analysis Project
 SQL Project + Health Care Data + From Raw Data to Business Insights
 
+Table of Contents
+Project Overview
+Tools and Technologies
+Dataset Overview
+Data Cleaning and Feature Engineering
+Exploratory Analysis
+Key Insight and Findings 
+Recommendations
+
+
 ### Project Overview
 A comprehensive SQL solution for cleaning, standardizing, and analyzing healthcare data. This project transforms messy patient admission records through data cleansing, duplicate removal, ID assignment, and delivers key insights on hospital operations, patient trends, and financial metrics. 
 Demonstrates end-to-end data processing from raw data to actionable analytics.
@@ -117,7 +127,5 @@ ORDER BY number_of_patient_visits DESC;
 
 ###  Recommendations
 
-Data Source 
-
-[Download Here](https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data)
+Data Source [Download Here](https://www.kaggle.com/datasets/prasad22/healthcare-dataset/data)
    
