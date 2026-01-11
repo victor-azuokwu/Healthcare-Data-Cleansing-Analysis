@@ -1,9 +1,9 @@
 # Healthcare Data Cleansing & Analysis Project
 SQL Project + Health Care Data + From Raw Data to Business Insights
 
-Table of Contents
-Project Overview
-Tools and Technologies
+## Table of Contents
+* [Project Overview](Project-Overview)
+* [Tools and Technologies](Tools-and-Technologies)
 Dataset Overview
 Data Cleaning and Feature Engineering
 Exploratory Analysis
