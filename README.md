@@ -8,7 +8,7 @@ SQL Project + Health Care Data + From Raw Data to Business Insights
 * [Data Cleaning and Feature Engineering](#Data-Cleaning-and-Feature-Engineering)
 * [Exploratory Analysis](#Exploratory-Analysis)
 * [Key Insight and Findings](#Key-Insight-and-Findings)
-* [Recommendations]
+* [Recommendations](#Recommendations)
 
 
 ### Project Overview
