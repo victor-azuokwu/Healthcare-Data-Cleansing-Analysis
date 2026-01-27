@@ -4,10 +4,10 @@ SQL Project + Health Care Data + From Raw Data to Business Insights
 ## Table of Contents
 * [Project Overview](#Project-Overview)
 * [Tools and Technologies](#Tools-and-Technologies)
-* [Dataset Overview](#Dataset-and-Overview)
+* [Dataset Overview](#Dataset-Overview)
 * [Data Cleaning and Feature Engineering](#Data-Cleaning-and-Feature-Engineering)
-* [Exploratory Analysis]
-* [Key Insight and Findings] 
+* [Exploratory Analysis](#Exploratory-Analysis)
+* [Key Insight and Findings](#Key-Insight-and-Findings)
 * [Recommendations]
 
 
